@@ -154,6 +154,9 @@ Yes you can. You can edit posts, pages, and custom post types with Zion Page Bui
 == Changelog ==
 
 = 1.1.1- 2020-12-04 =
+* Fix delete dynamic content value
+* Fix bg shadow on treeview
+* Fixed element edit not adding to history in certain conditions
 * Fixed tabs not keeping active tab in editor
 * Fixed post cache not properly cleared on page save
 * Update Tabgroup with v-model
