@@ -158,6 +158,7 @@ Please make sure to update tests as appropriate.
 ## Changelog ##
 
 ### 1.1.1- 2020-12-04 ###
+* Fixed bug accordion element
 * Fix delete dynamic content value
 * Fix bg shadow on treeview
 * Fixed element edit not adding to history in certain conditions
